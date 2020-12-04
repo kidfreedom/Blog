@@ -13,3 +13,6 @@ categories:
 
 ## Effective C# 改善C#程序的50种方法
 https://wizardforcel.gitbooks.io/effective-csharp/content/
+
+## 读书笔记
+https://kb.cnblogs.com/page/106722/
