@@ -11,7 +11,8 @@ tags:
 categories:
 ---
 
-https://www.jianshu.com/p/07dc38
-
 ### Lua依赖注入
 https://toutiao.io/posts/kqdq7e/preview
+
+### EmmyLua
+https://emmylua.github.io/index.html
