@@ -9,9 +9,7 @@ password:
 summary:
 tags:
 - 面试
-categories:
-- 程序语言
-- C#
+categories: 程序语言
 ---
 
 ## 定义

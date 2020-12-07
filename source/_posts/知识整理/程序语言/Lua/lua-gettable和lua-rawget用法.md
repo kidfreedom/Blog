@@ -7,10 +7,9 @@ mathjax: true
 date: 2020-12-05 17:11:04
 password:
 summary:
-tags: Lua C API 
-categories:
-- 程序语言
-- Lua
+tags: 
+- Lua C API 
+categories: 程序语言
 ---
 
 ## lua_gettable
