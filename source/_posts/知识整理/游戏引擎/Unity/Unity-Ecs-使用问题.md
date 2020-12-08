@@ -8,9 +8,7 @@ date: 2020-07-08 22:23:57
 password:
 summary:
 tags: 
-categories:
-- Ecs
-- Unity
+categories: 游戏引擎
 ---
 
 ## JobSystem使用问题
