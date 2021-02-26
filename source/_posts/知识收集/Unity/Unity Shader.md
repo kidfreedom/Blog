@@ -1,5 +1,5 @@
 ---
-title: Unity Shader理解Stencil buffer
+title: Unity Shader
 top: false
 cover: false
 toc: true
@@ -7,7 +7,7 @@ mathjax: true
 date: 2021-02-24 11:21:22
 password:
 summary:
-tags:
+tags: Unity
 categories:
 ---
 
