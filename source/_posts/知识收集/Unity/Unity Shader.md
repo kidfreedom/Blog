@@ -22,3 +22,6 @@ https://www.alanzucconi.com/2015/06/10/a-gentle-introduction-to-shaders-in-unity
 
 ## UnityShader 表面着色器简单例程集合
 https://www.cnblogs.com/QG-whz/p/5545276.html
+
+## Unity Shader 学习笔记
+https://blog.csdn.net/l773575310/category_9270650.html
