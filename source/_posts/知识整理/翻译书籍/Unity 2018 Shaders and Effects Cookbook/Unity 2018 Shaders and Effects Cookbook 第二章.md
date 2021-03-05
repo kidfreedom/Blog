@@ -32,4 +32,4 @@ categories: Unity 2018 Shaders and Effects Cookbook
 
 游戏中的所有对象都包含许多影响其外观和行为的组件。 脚本确定对象的行为方式时，渲染器确定对象在屏幕上的显示方式。 Unity带有多个渲染器，具体取决于我们试图可视化的对象类型。 每个3D模型通常都附有一个`MeshRenderer`组件。 一个对象应该只有一个渲染器，但是渲染器本身可以包含多种材质。 每种材质都是单个着色器的包装，这是3D图形食物链中的最后一个环。 下图显示了这些组件之间的关系：
 
-![](/images/Unity 2018 Shaders and Effects Cookbook/Chapter Two/1.png)
+![](/images/Unity2018ShadersAndEffectsCookbook/ChapterTwo/1.png)
