@@ -11,6 +11,9 @@ tags: Unity
 categories:
 ---
 
+## 
+https://zhuanlan.zhihu.com/p/73377730
+
 ## Stencil buffer
 https://blog.csdn.net/liu_if_else/article/details/86316361
 
@@ -25,3 +28,6 @@ https://www.cnblogs.com/QG-whz/p/5545276.html
 
 ## Unity Shader 学习笔记
 https://blog.csdn.net/l773575310/category_9270650.html
+
+## 
+http://www.verajankorva.com/cms/?p=203
